@@ -3,7 +3,7 @@
 </p>
 
 # 📢Projeto 2 - Patinhas Saudáveis
-Descrição
+Fase 1 e Fase 2 - CRIAR BANCO DE DADOS RELACIONAL
 
  Grupo:
  
@@ -15,6 +15,6 @@ Descrição
 
 • Luiz Gustavo Barbosa Machado
 
-Link dos Slides: 
+Link dos Slides Apresentação: 
 
 LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK LINK
